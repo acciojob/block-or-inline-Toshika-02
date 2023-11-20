@@ -1,21 +1,7 @@
 
 /* Your CSS Code here. */
-.div-block {
-      border: 1px solid black;
+.divblock {
+      border: 1px solid #ccc;
       padding: 10px;
-      margin-bottom: 10px;
-    }
-
-    .div-block .block-element {
-      display: block;
-      border: 1px solid red;
-      padding: 5px;
-      margin-bottom: 5px;
-    }
-
-    .div-block .inline-element {
-      display: inline;
-      border: 1px solid blue;
-      padding: 5px;
-      margin-right: 5px;
+      margin: 10px;
     }
